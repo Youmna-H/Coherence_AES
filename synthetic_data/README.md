@@ -1,7 +1,7 @@
 File format for data (train/dev/test splits are taken from Taghipour and Ng (2016)):
 Each line is an essay represented as:
 
-essay_id question_id score perm_index essay
+essay-id question-id score perm-index essay
 
 where:
 * score = 0 for incoherent shuffled essays and = 1 for coherent essays.
